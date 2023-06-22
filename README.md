@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cam</h1>
-<h3 align="center">A videographer/editor/motion designer from Colorado who is transitioning into the world of software development.</h3>
+<h3 align="center">A videographer/editor/motion designer from Colorado who is transitioning into the world of software engineering.</h3>
 
-- 🌱 I’m currently learning **The Odin Project's Fundamentals course**
+- 🌱 I’m currently learning **The Odin Project's Foundations course**
 
 - 📫 How to reach me **cameron.n.johnson15@gmail.com**
 
