@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cam</h1>
-<h3 align="center">A videographer/editor/motion designer from Colorado who is transitioning into the world of software engineering.</h3>
+<h3 align="center">A Colorado based FE Software Engineering student at <a href="https://turing.edu/" target="blank">Turing School of Software and Design</a> who is transitioning from video production into the world of software engineering.</h3>
 
-- 🌱 I’m currently learning **The Odin Project's Foundations course and The Complete JavaScript Course by Jonas Schmedtmann on Udemy**
+- 🌱 I’m currently learning Javascript, HTML and CSS
+
+- 📚 In my spare time, I'm working my way through **The Odin Project's Foundations course and The Complete JavaScript Course by Jonas Schmedtmann on Udemy**
 
 - 📫 How to reach me **cameron.n.johnson15@gmail.com**
 
