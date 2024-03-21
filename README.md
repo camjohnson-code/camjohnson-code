@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cam</h1>
 <h3 align="center">A Colorado-based Front-End Software Engineering student at <a href="https://turing.edu/" target="blank">Turing School of Software and Design</a> who is transitioning from video production to the world of software engineering.</h3>
 
-- 🌱 I’m currently learning React, user authentication, Node.js, Express and MongoDB
+- 🌱 I’m currently learning React Native
 
 - 📚 In my spare time, I'm working my way through **The Odin Project, The Complete JavaScript Course by Jonas Schmedtmann on Udemy** and training for triathlons
 
