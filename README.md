@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning React Native
 
-- 📚 In my spare time, I'm working my way through **The Odin Project, The Complete JavaScript Course by Jonas Schmedtmann on Udemy** and training for triathlons
+- 📚 In my spare time, I'm working my way through **JavaScript Algorithms and Data Structures Masterclass on Udemy** and training for triathlons
 
 - 📫 How to reach me **cameron.n.johnson15@gmail.com**
 
