@@ -5,7 +5,7 @@
 
 - 📚 In my spare time, I'm working my way through **JavaScript Algorithms and Data Structures Masterclass on Udemy** and training for triathlons
 
-- 📫 How to reach me **cameron.n.johnson15@gmail.com**
+- 📫 How to reach me **cjohnson10176@gmail.com** or at <a href='https://www.camjohnson.dev' target="blank">**camjohnson.dev**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
