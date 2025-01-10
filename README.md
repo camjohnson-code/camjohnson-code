@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Cam</h1>
 <h3 align="center">A Colorado-based Software Engineer, triathlete and tech nerd.</h3>
 
-- 🌱 I’m currently diving more into React Native, Next.js and data structures and algorithms.
-
 - 💻 I’m a web developer and software engineer who loves turning ideas into reality online. Growing up in the '90s and early 2000s, I got hooked on computers and the internet, and that passion now drives me to build fast, responsive, and accessible websites and software for everyone.
+  
+- 🌱 In my professional life, I'm building efficient CI/CD pipelines from the ground up.
+
+- In my personal live, I'm learning Java and Data Structures and Algorithms as I prepare my application for a Masters program. 
+
 
 - 📫 How to reach me **cjohnson10176@gmail.com** or at <a href='https://www.camjohnson.dev' target="blank">**camjohnson.dev**</a>
 
