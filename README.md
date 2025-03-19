@@ -5,7 +5,7 @@
   
 - 🌱 In my professional life, I'm building efficient CI/CD pipelines from the ground up.
 
-- In my personal live, I'm learning Java and Data Structures and Algorithms as I prepare my application for a Masters program. 
+- In my personal life, I'm learning React Native, Java and Data Structures and Algorithms as I prepare my application for a Masters program. 
 
 
 - 📫 How to reach me **cjohnson10176@gmail.com** or at <a href='https://www.camjohnson.dev' target="blank">**camjohnson.dev**</a>
