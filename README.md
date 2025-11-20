@@ -3,9 +3,11 @@
 
 - 💻 I’m a web developer and software engineer who loves turning ideas into reality online. Growing up in the '90s and early 2000s, I got hooked on computers and the internet, and that passion now drives me to build fast, responsive, and accessible websites and software for everyone.
   
-- 🌱 In my professional life, I'm building efficient CI/CD pipelines from the ground up.
+- 🌱 In my professional life, I'm building efficient CI/CD pipelines from the ground up while improving team outcomes via Netsuite development.
 
-- In my personal life, I'm learning React Native, Java and Data Structures and Algorithms as I prepare my application for a Masters program. 
+- In my personal life, I'm learning Kotlin, Java and Data Structures and Algorithms as I prepare my application for a Masters program.
+
+- In my free time, you can catch me playing NCAA football, Cities: Skylines or (slowly) learning to play guitar.
 
 
 - 📫 How to reach me **cjohnson10176@gmail.com** or at <a href='https://www.camjohnson.dev' target="blank">**camjohnson.dev**</a>
